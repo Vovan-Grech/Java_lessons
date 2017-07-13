@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
             System.out.println("Cool check:");
 
             System.out.println(checkWithRegExp("_@BEST"));
-            System.out.println(checkWithRegExp("vovan_________________________________________"));
+            System.out.println(checkWithRegExp("vovan"));
             System.out.println(checkWithRegExp("vo"));
             System.out.println(checkWithRegExp("Z@OZA"));
 
